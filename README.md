@@ -1,1 +1,1 @@
-# LP-3
+print("Hello")
